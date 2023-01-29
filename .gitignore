@@ -1,0 +1,4 @@
+bin/
+obj/
+Giphy/node_modules/
+.vs/
